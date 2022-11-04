@@ -1,2 +1,3 @@
-# Portf-lio
-Primeiro desenvolvimento
+# Portfólio
+Criação de uma estrutura para desenvolver um site.
+
